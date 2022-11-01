@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.listedItem {
+  padding: 10px;
+  height: 180px;
+  width: 45%;
+  padding: 10px;
+  margin: 4px;
+}
+
+.image {
+  height: 120px;
+  border: 0px solid;
+}
+
+.card-head {
+  font-size: 20px;
+  margin: 0;
+  color: #ffffff;
+}
+
+.location {
+  font-size: 15px;
+  margin: 0;
+  color: #ffffff;
+}
